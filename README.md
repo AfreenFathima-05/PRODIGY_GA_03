@@ -20,8 +20,8 @@ Observed and verified the generated text output
 
 Technologies Used:
 
-Python
-Markov Chain Model
+Python,
+Markov Chain Model,
 Basic Natural Language Processing concepts
 
 
